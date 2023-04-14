@@ -1,0 +1,15 @@
+
+receptor = cytc PDB.pdbqt
+ligand = CAtclcactvs000IuiSxO.pdbqt
+
+center_x = 46.997
+center_y = 23.889
+center_z = 4.832
+
+size_x = 34
+size_y = 34
+size_z = 34
+
+energy_range = 4
+
+exhaustiveness = 8
